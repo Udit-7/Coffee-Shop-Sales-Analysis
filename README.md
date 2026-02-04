@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an interactive Excel Dashboard that analyzes sales data for a coffee shop. It helps in understanding customer behavior and peak sales periods.
+![Dashboard Screenshot](dashboard.png)
 
 ## Key Insights
 - **Top Products:** Identified the best-selling coffee categories.
